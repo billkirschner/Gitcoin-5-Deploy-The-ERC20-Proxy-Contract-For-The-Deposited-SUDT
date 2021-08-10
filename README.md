@@ -1,4 +1,3 @@
-
 # Gitcoin-5-Deploy-The-ERC20-Proxy-Contract-For-The-Deposited-SUDT
 
 A screenshot of the console output immediately after deploying smart contract.
@@ -11,4 +10,8 @@ Deployed SUDT-ERC20 Proxy contract address: 0x23B041442E9959Bc3Fd3E029758166D82f
 
 A screenshot of the console output immediately after checking your SUDT balance.
 
+![checking SUDT balance](https://user-images.githubusercontent.com/6120288/128821848-aff8568b-ca69-47f4-b405-9b4d91387234.png)
+
 The Ethereum address that was checked (in text format).
+
+0x66feb90Aa16cCa18769b1fC44D24657a63dE852d 
